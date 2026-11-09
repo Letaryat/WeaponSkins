@@ -37,6 +37,13 @@ public class PlayerLocalizationService
 
     public string MenuTitle => Localizer["menu.title"];
     public string MenuTitleSkins => Localizer["menu.skins.title"];
+    public string MenuSkinsGroupRifles => Localizer["menu.skins.group.rifles"];
+    public string MenuSkinsGroupPistols => Localizer["menu.skins.group.pistols"];
+    public string MenuSkinsGroupSmgs => Localizer["menu.skins.group.smgs"];
+    public string MenuSkinsGroupShotguns => Localizer["menu.skins.group.shotguns"];
+    public string MenuSkinsGroupSnipers => Localizer["menu.skins.group.snipers"];
+    public string MenuSkinsGroupHeavy => Localizer["menu.skins.group.heavy"];
+    public string MenuSkinsGroupOther => Localizer["menu.skins.group.other"];
     public string MenuTitleKnifes => Localizer["menu.knifes.title"];
     public string MenuTitleGloves => Localizer["menu.gloves.title"];
     public string MenuTitleStickers => Localizer["menu.stickers.title"];
